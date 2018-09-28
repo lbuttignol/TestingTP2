@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PexExcercise", "PexExcercise\PexExcercise.csproj", "{E6217292-2BF2-47D3-B185-8F2954A221C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PexExcercise.Tests", "PexExcercise.Tests\PexExcercise.Tests.csproj", "{89889578-5DA0-4FE8-945C-EC97CA6145D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6217292-2BF2-47D3-B185-8F2954A221C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6217292-2BF2-47D3-B185-8F2954A221C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6217292-2BF2-47D3-B185-8F2954A221C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6217292-2BF2-47D3-B185-8F2954A221C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89889578-5DA0-4FE8-945C-EC97CA6145D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89889578-5DA0-4FE8-945C-EC97CA6145D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89889578-5DA0-4FE8-945C-EC97CA6145D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89889578-5DA0-4FE8-945C-EC97CA6145D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

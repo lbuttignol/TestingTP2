@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\PexExcercise.Tests.dll
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\PexExcercise.Tests.pdb
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\PexExcercise.exe
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\PexExcercise.pdb
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\obj\Debug\PexExcercise.Tests.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\obj\Debug\PexExcercise.Tests.rewritten
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\obj\Debug\PexExcercise.Tests.dll
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise.Tests\obj\Debug\PexExcercise.Tests.pdb

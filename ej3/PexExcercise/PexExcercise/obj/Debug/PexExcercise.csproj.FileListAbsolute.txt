@@ -1,0 +1,10 @@
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\bin\Debug\PexExcercise.exe.config
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\obj\Debug\PexExcercise.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\bin\Debug\PexExcercise.exe
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\bin\Debug\PexExcercise.pdb
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\obj\Debug\PexExcercise.exe
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\obj\Debug\PexExcercise.pdb
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\obj\Debug\PexExcercise.rewritten
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\obj\Debug\Decl\PexExcercise.exe
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\obj\Debug\Decl\PexExcercise.pdb
+C:\Users\a\Desktop\tp3\PexExcercise\PexExcercise\obj\Debug\CodeContractAnalysisRun.log
