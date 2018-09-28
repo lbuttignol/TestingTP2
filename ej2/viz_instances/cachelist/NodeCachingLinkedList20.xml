@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<alloy>
+<instance filename="" command="NodeCachingLinkedList">
+
+  <sig name="NodeCachingLinkedList" extends="Object">
+    <atom name="NodeCachingLinkedList0"/>
+  </sig>
+  <sig name="Int" extends="univ">
+    <atom name="1"/>
+    <atom name="0"/>
+    <atom name="20"/>
+    <atom name="0"/>
+    <atom name="0"/>
+  </sig>
+  <sig name="Object" extends="univ">
+    <atom name="NodeCachingLinkedList0"/>
+    <atom name="LinkedListNode0"/>
+    <atom name="LinkedListNode2"/>
+    <atom name="LinkedListNode1"/>
+  </sig>
+  <sig name="LinkedListNode" extends="Object">
+    <atom name="LinkedListNode0"/>
+    <atom name="LinkedListNode2"/>
+    <atom name="LinkedListNode1"/>
+  </sig>
+
+  <field name="header">
+    <type>
+      <sig name="NodeCachingLinkedList"/>
+      <sig name="LinkedListNode"/>
+    </type>
+    <tuple>
+      <atom name="NodeCachingLinkedList0"/>
+      <atom name="LinkedListNode0"/>
+    </tuple>
+  </field>
+  <field name="size">
+    <type>
+      <sig name="NodeCachingLinkedList"/>
+      <sig name="Int"/>
+    </type>
+    <tuple>
+      <atom name="NodeCachingLinkedList0"/>
+      <atom name="1"/>
+    </tuple>
+  </field>
+  <field name="modCount">
+    <type>
+      <sig name="NodeCachingLinkedList"/>
+      <sig name="Int"/>
+    </type>
+    <tuple>
+      <atom name="NodeCachingLinkedList0"/>
+      <atom name="0"/>
+    </tuple>
+  </field>
+  <field name="DEFAULT_MAXIMUM_CACHE_SIZE">
+    <type>
+      <sig name="NodeCachingLinkedList"/>
+      <sig name="Int"/>
+    </type>
+    <tuple>
+      <atom name="NodeCachingLinkedList0"/>
+      <atom name="20"/>
+    </tuple>
+  </field>
+  <field name="cacheSize">
+    <type>
+      <sig name="NodeCachingLinkedList"/>
+      <sig name="Int"/>
+    </type>
+    <tuple>
+      <atom name="NodeCachingLinkedList0"/>
+      <atom name="0"/>
+    </tuple>
+  </field>
+  <field name="maximumCacheSize">
+    <type>
+      <sig name="NodeCachingLinkedList"/>
+      <sig name="Int"/>
+    </type>
+    <tuple>
+      <atom name="NodeCachingLinkedList0"/>
+      <atom name="0"/>
+    </tuple>
+  </field>
+  <field name="previous">
+    <type>
+      <sig name="LinkedListNode"/>
+      <sig name="LinkedListNode"/>
+    </type>
+    <tuple>
+      <atom name="LinkedListNode0"/>
+      <atom name="LinkedListNode1"/>
+    </tuple>
+  </field>
+  <field name="next">
+    <type>
+      <sig name="LinkedListNode"/>
+      <sig name="LinkedListNode"/>
+    </type>
+    <tuple>
+      <atom name="LinkedListNode0"/>
+      <atom name="LinkedListNode2"/>
+    </tuple>
+  </field>
+  <field name="previous">
+    <type>
+      <sig name="LinkedListNode"/>
+      <sig name="LinkedListNode"/>
+    </type>
+    <tuple>
+      <atom name="LinkedListNode2"/>
+      <atom name="LinkedListNode0"/>
+    </tuple>
+  </field>
+  <field name="next">
+    <type>
+      <sig name="LinkedListNode"/>
+      <sig name="LinkedListNode"/>
+    </type>
+    <tuple>
+      <atom name="LinkedListNode2"/>
+      <atom name="LinkedListNode0"/>
+    </tuple>
+  </field>
+  <field name="previous">
+    <type>
+      <sig name="LinkedListNode"/>
+      <sig name="LinkedListNode"/>
+    </type>
+    <tuple>
+      <atom name="LinkedListNode1"/>
+      <atom name="LinkedListNode1"/>
+    </tuple>
+  </field>
+
+</instance>
+</alloy>

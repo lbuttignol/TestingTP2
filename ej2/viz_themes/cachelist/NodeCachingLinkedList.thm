@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+
+<alloy>
+<view useOriginalAtomNames="yes">
+
+<defaultnode/>
+<defaultedge/>
+
+<node shape="Box" color="Yellow">
+  <type name="NodeCachingLinkedList"/>
+</node>
+<node visible="no">
+  <type name="Int"/>
+</node>
+<node shape="Circle" color="Red">
+  <type name="Object"/>
+</node>
+<node shape="Hexagon" color="Blue">
+  <type name="LinkedListNode"/>
+</node>
+
+<edge visible="no" merge="no" attribute="yes">
+  <relation name="size">
+      <type name="NodeCachingLinkedList"/>
+      <type name="Int"/>
+  </relation>
+</edge>
+<edge visible="no" merge="no" attribute="yes">
+  <relation name="modCount">
+      <type name="NodeCachingLinkedList"/>
+      <type name="Int"/>
+  </relation>
+</edge>
+<edge visible="no" merge="no" attribute="yes">
+  <relation name="DEFAULT_MAXIMUM_CACHE_SIZE">
+      <type name="NodeCachingLinkedList"/>
+      <type name="Int"/>
+  </relation>
+</edge>
+<edge visible="no" merge="no" attribute="yes">
+  <relation name="cacheSize">
+      <type name="NodeCachingLinkedList"/>
+      <type name="Int"/>
+  </relation>
+</edge>
+<edge visible="no" merge="no" attribute="yes">
+  <relation name="maximumCacheSize">
+      <type name="NodeCachingLinkedList"/>
+      <type name="Int"/>
+  </relation>
+</edge>
+
+</view>
+</alloy>

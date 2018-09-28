@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/lbuttignol/Documents/Universidad/2018/Testing/TP3/lib/korat/alloy4viz.jar"/>
+	<classpathentry kind="lib" path="/Users/lbuttignol/Documents/Universidad/2018/Testing/TP3/lib/korat/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/lbuttignol/Documents/Universidad/2018/Testing/TP3/lib/korat/javassist.jar"/>
+	<classpathentry kind="lib" path="/Users/lbuttignol/Documents/Universidad/2018/Testing/TP3/lib/korat/korat.jar"/>
+	<classpathentry kind="lib" path="/Users/lbuttignol/Documents/Universidad/2018/Testing/TP3/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/lbuttignol/Documents/Universidad/2018/Testing/TP3/lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
