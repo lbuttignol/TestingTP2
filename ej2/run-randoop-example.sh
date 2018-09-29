@@ -1,1 +1,0 @@
-java -classpath bin:lib/korat/korat.jar:lib/randoop-all-4.0.4.jar randoop.main.Main gentests --testclass=cachelist.NodeCachingLinkedList --junit-output-dir=randoop-test --regression-test-basename=NodeCachingLinkedListRandoopTest  --junit-package-name=cachelist --time-limit=30 #--flaky-test-behavior=OUTPUT
